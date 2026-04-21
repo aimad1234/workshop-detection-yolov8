@@ -1,0 +1,1 @@
+# workshop-detection-yolov8

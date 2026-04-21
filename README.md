@@ -19,7 +19,7 @@ Le dataset utilisé est le [CitDet (Citrus Detection)](https://www.kaggle.com/da
 
 Ce notebook fait suite à la **Séance 1** (classification des maladies des plantes avec SVM et Random Forest). Il introduit un niveau de complexité supplémentaire :
 
-| | Séance 1 | Séance 2 |
+| | Séance 1 (ML) | Séance 2 (DL) |
 |---|---|---|
 | **Tâche** | Classification | Détection d'objets |
 | **Algorithmes** | SVM, Random Forest | YOLOv8 (deep learning) |
